@@ -50,20 +50,20 @@ Przekroczenie limitu dopuszczalnych nieobecności może skutkować niezaliczenie
 
 | Data spotkania | Nazwa grupy | Nr tematu |
 |----------------|-------------|-----------|
-| 05.03.2021     | DWPK        | 1         |
-| 12.03.2021     | Historia    | 2         |
-| 19.03.2021     | DomLau      | 3         |
-| 26.03.2021     | ARM         | 4         |
-| 09.04.2021     | K.E.09.04   | 5         |
-| 16.04.2021     | ACt6        | 6         |
-| 23.04.2021     | Dwa Michały | 7         |
-| 30.04.2021     | KMD         | 8         |
-| 07.05.2021     | 5G          | 9         |
-| 14.05.2021     | KL          | 10        |
-| 21.05.2021     | KSKŚSS      | 11        |
-| 28.05.2021     | KRAL        | 12        |
-| 04.06.2021     | 13          | 13        |
-| 11.06.2021     | 14          | 14        |
+| 04.03.2022     |             |           |
+| 11.03.2022     |             |           |
+| 18.03.2022     |             |           |
+| 25.03.2022     |             |           |
+| 01.04.2022     |             |           |
+| 08.04.2022     |             |           |
+| 22.04.2022     |             |           |
+| 29.04.2022     |             |           |
+| 06.05.2022     |             |           |
+| 13.05.2022     |             |           |
+| 20.05.2022     |             |           |
+| 27.05.2022     |             |           |
+| 03.06.2022     |             |           |
+| 10.06.2022     |             |           |
 
 ### Lista referatów
 
@@ -74,23 +74,17 @@ Przekroczenie limitu dopuszczalnych nieobecności może skutkować niezaliczenie
     - znaczenie w administracji
     - jak się zabezpieczać?
     - http://han.uwm.edu.pl/han/ibuk-libra/https/libra.ibuk.pl/book/146213
-4. Przegląd stacji tv i stacji radiowych (jakie są w polsce naziemnie, najpopularniejsze w sat, w kablówce, informacja o właścicielu, krótki opis charakteru stacji np. kanał informacyjny, filmowy).
-5. Przegląd usług i operatorów stacjonarnych
-    - stworzenie bazy marek usług stacjonarnych, odróżnienie marki od nazwy firmy (jeśli dotyczy)
-    - rodzaj usług podstawowych i dodatkowych
-    - informacja czy są dostępni w Olsztynie i okolicach czy w innych miastach
-6. Przegląd usług i operatorów mobilnych
-    - stworzenie bazy marek usług mobilnych, odróżnienie marki od nazwy firmy (jeśli dotyczy)
-    - rodzaj usług podstawowych i dodatkowych
-    - podział operatorów na infrastrukturalnych i wirtualnych
-7. Administracja wczoraj i dziś — jak zdobycze teleinformatyczne zmieniają administrację?
-8. Wyzwania telekomunikacji — jakie są plany rozwoju? jakie nowe technologie mają się pojawić? czy są jakieś przeszkody w rozwoju?
-9. Za i przeciw 5G.
-10. Prawa konsumentów na rynku usług telekomunikacyjnych.
-11. VPN – co to jest, jak korzystać, co daje?
-12. WINMTR – do czego służy ten program, co można odczytać, jak interpretować wyniki pod kątem bezpieczeństwa państwa?
-13. Ustawa o ochronie informacji niejawnej.
-14. Budowa światłowodów w Polsce.
+4. Administracja wczoraj i dziś - jak zdobycze teleinformatyczne zmieniają administrację?
+5. Wyzwania telekomunikacji - jakie są plany rozwoju? jakie nowe technologie mają się pojawić? czy są jakieś przeszkody w rozwoju?
+6. Za i przeciw 5G.
+7. Prawa konsumentów na rynku usług telekomunikacyjnych.
+8. VPN – co to jest, jak korzystać, co daje?
+9. WINMTR – do czego służy ten program, co można odczytać, jak interpretować wyniki pod kątem bezpieczeństwa państwa?
+10. Ustawa o ochronie informacji niejawnej.
+11. Budowa światłowodów w Polsce.
+12. Prawo komunikacji elektronicznej – stan ustawy, kierunek zmian w prawie.
+13. Dostępność usług telekomunikacyjnych dla osób niepełnosprawnych.
+14. Plan numeracji krajowej.
 
 ## Literatura pomocnicza
 
